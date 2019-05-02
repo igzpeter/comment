@@ -1,0 +1,155 @@
+/* font-family: 'Amatic SC', cursive;
+font-family: 'Libre Barcode 128 Text', cursive; */
+
+#container{
+
+    display:flex;  
+    flex-direction: row;
+   justify-content: center;
+   margin-top:50px;
+   margin-left: 110px;
+   width: 1200px;
+   height: 1000px;
+   flex-wrap: wrap;
+   font-size: 22px;
+   
+
+}
+#container2{
+
+            display:flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            float: right;
+            height:20px;
+            width: 20px;
+}
+
+#container3{
+             display:flex;
+             justify-content: flex-start;
+             height:100px;
+            position: absolute;
+             
+}
+
+
+
+
+h1 {
+    font-family: 'Libre Barcode 128 Text', cursive;
+    font-size: 70px;
+    text-align: center;
+}
+
+h2{
+    width: 600px;
+    height: 100px;
+    position: absolute;
+    float: right;
+    font-family: 'Amatic SC', cursive; 
+    font-size: 30px;
+   
+   
+}
+#gif{
+    width: 350px;
+    height: 228px;
+     margin-top: 150px;
+     margin-right: 1px;
+     float: right;
+
+}
+ #gif img{
+    width: 350px;
+    height: 228px; 
+}
+
+#menu {
+         width: 70px;
+        height: 70px;
+        margin-right:2px;
+       
+}
+ 
+ul, li {
+         width: 135px;
+         font-size: 30px;
+         font-family: 'Amatic SC', cursive; 
+         background-color: rgb(206, 204, 204);
+       
+}
+
+    p{
+        font-family: 'Amatic SC', cursive;
+        font-size: 30px;
+        color: blue;
+        margin-bottom:0px;
+        margin-left: 10px;
+ 
+}
+
+
+img{
+    
+    width: 245px;
+    height: 198px;
+    
+
+}
+
+
+#menuimg{
+        width: 70px;
+        height: 70px;
+}
+
+.unlike{
+          width: 30px;
+          height:30px;
+}
+
+/* #Tshirt-blanc-im,#namechaussure2,#tshirt1,#tshirt3,#tshirt2,#access2,#access1,#pantalon1,#veste4,#veste1,#veste2,#veste3,#lingerie2,#lingerie1,#pyjama3,#pyjama1,#pyjama2, 
+#costume2,#costume1,#robe4,#robe1,#robe2,#robe3{
+    font-size: 22px;
+    width:500px;
+    height: 330px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding:10px;
+    margin:10px;
+    border:solid black 1px;
+    background: ;
+} */
+
+#commentaire{
+    width: 400px;
+    height: 30px;
+    border-radius: 8px;
+    outline:none;
+    position: relative;
+}
+
+button, #com{
+width:155px;
+    height: 32px;
+    background-color: white;
+    font-size: 15px;
+    color: palevioletred;
+    border-color: palevioletred;
+    border-radius: 8px;
+    outline:none;
+}
+
+#container4{
+    display:flex;
+    flex-direction:column;
+    width:"1540px";
+    height:"2500px";
+    background-color:rgb(176, 196, 197);
+    border:solid black 1px;
+    
+
+}
